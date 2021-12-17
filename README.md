@@ -1,5 +1,5 @@
 # Speech_to_text
-#PROBLEM STAEMENT
+# PROBLEM STAEMENT:
 In this project our goal is to acheive the problem of converting audio data into textual data.
 DESCRIPTION OVERVIEW
 Speech Recognition is an important feature in several applications used such as home automation, artificial intelligence, etc. This article aims to provide an introduction on how to make use of the SpeechRecognition library of Python. This is useful as it can be used on microcontrollers such as Raspberri Pis with the help of an external microphone.
@@ -10,7 +10,7 @@ Popular digital assistants, include:
 •	Google’s Google Assistant
 •	Microsoft’s Cortana
 
-#TECHNOLOGY USED:
+# TECHNOLOGY USED:
 Here we will be using  Anaconda Python 3.6 and SpeechRecognition package.
 
 
